@@ -1,5 +1,5 @@
 <p align="center">
-<img width="350" alt="logo-le grand marche" src="Images/poule-logo.png" />
+<img width="350" alt="logo-la poule qui chante" src="Images/poule-logo.png" />
 </p>
 
 # La Poule Qui Chante
