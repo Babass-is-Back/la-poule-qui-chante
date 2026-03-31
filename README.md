@@ -14,7 +14,7 @@ Son activité actuelle est franco-française mais le PDG de l’entreprise souha
 Identifier les pays présentant le plus fort potentiel pour l’exportation de nos poulets Bio.
 
 ### Livrables :  
-* Présentation Power BI ayant pour but de : 
+* Présentation PowerPoint ayant pour but de : 
 
 	* Comprendre les dynamiques locales
 	* Évaluer la compétitivité du poulet face aux producteurs locaux
