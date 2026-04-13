@@ -22,7 +22,7 @@ Identifier les pays présentant le plus fort potentiel pour l’exportation de n
 	* Pour enfin, formuler des recommandations concrètes de pays ou ensemble de pays.
 
 ## Livrables :   
-
+(Clic droit + ouvrir le lien dans un nouvel onglet)
 <p>
     <p><strong>Présentation : </stong></p>
     <a href="Livrables/poule-presentation.pdf" title="Voir la présentation">
